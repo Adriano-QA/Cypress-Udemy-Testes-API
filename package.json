@@ -4,7 +4,8 @@
   "description": "Teste de API com Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open"
   },
   "author": "Adriano Aluizi",
   "license": "ISC",
