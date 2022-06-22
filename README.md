@@ -4,7 +4,7 @@
 
 Automatizar teste de uma API.
 
-API Automatizada: https://barrigareact.wcaquino.me
+API Automatizada: https://barrigarest.wcaquino.me/signin
 
 ## Clonando e executando em sua máquina
 
