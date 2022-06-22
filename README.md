@@ -40,3 +40,4 @@ npm run cy:open
 
 ### Bibliotecas de apoio:
 -Cypress: Framework de automação: https://cypress.io/
+-Dayjs: lib manipulação data/hora: https://day.js.org
